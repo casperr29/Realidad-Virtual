@@ -3248,3 +3248,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.05.29-18.28.32:339][392]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
 [2024.05.29-18.28.40:540][392]LogExit: Editor shut down
 [2024.05.29-18.28.41:398][392]LogExit: Transaction tracking system shut down
+[2024.05.29-18.30.22:764][392]LogExit: Object subsystem successfully closed.
+[2024.05.29-18.30.24:462][392]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.29-18.30.24:462][392]LogShaderCompilers: Display: Total job queries 112, among them cache hits 41 (36.61%)
+[2024.05.29-18.30.24:462][392]LogShaderCompilers: Display: Tracking 53 distinct input hashes that result in 38 distinct outputs (71.70%)
+[2024.05.29-18.30.24:462][392]LogShaderCompilers: Display: RAM used: 0.62 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.15%
+[2024.05.29-18.30.24:462][392]LogShaderCompilers: Display: ================================================
+[2024.05.29-18.30.30:715][392]LogShaderCompilers: Display: Shaders left to compile 0
